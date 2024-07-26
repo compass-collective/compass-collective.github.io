@@ -1,1 +1,8 @@
+title: Compass Collective
+description: Community-driven initiatives for housing equity and public space improvement in Oakland, CA.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://compass-collective.github.io" # the base hostname & protocol for your site
+theme: minima
 
+# Build settings
+markdown: kramdown
